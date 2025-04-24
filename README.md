@@ -16,3 +16,7 @@ For Arch:
 ```bash
 sudo pacman -S docker-compse
 ```
+
+## Notes
+
+`docker-compose up` == `docker-compose build && docker-compose create && docker-compose run`
